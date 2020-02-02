@@ -1,3 +1,5 @@
+require 'pry'
+
 
 
 Write all of your code in `deli_counter.rb`
