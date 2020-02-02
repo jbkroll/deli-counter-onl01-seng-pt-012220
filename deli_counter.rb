@@ -19,9 +19,9 @@ def take_a_number(katz_deli, name)
     puts "Welcome, #{name}. You are number #{katz.deli.length} in line."
 end
 
-def now_serving(katz_deli)
+def tale_a_number(katz_deli)
   if katz_deli.empty?
-    puts "There is nobody waiting to be served!"
+    puts "There is nobody in line!"
   else 
     katz_deli.shift
   end
